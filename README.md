@@ -7,7 +7,7 @@ I am a graduate student specializing in Artificial Intelligence, and I am eager 
 - I enjoy the feeling of earning a living while doing something I love, knowing that it also contributes to my future. 
 - I have a strong desire to continuously learn and systemize my knowledge base. 
 It's almost like having OCD when it comes to knowledge — I feel a sense of loss if my understanding of something isn't complete or well-organized.
-My approach to learning is similar to Breadth-First Search (BFS), which I call Breadth-First Learning. I’m not concerned about the depth at first because, over time, BFS will naturally lead to a deeper understanding.
+- My approach to learning is similar to Breadth-First Search (BFS), which I call Breadth-First Learning. I’m not concerned about the depth at first because, over time, BFS will naturally lead to a deeper understanding.
 - I really like to map any knowledge into the real world. I love the SECI knowledge management framework by Ikujiro Nonaka. In his theory, knowledge exists in two forms: 1) Implicit Knowledge, and 2) Explicit Knowledge. These forms are transformable.
 - I love machine learning especially reinforce learning (even though I am not good at it). 
 I have a strong understanding that reinforcement learning is rooted in real-world scenarios, and it uses numerical calculations to determine how to make optimal decisions.
