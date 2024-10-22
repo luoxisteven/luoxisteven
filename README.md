@@ -10,7 +10,7 @@
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
 
 ### About me
-- `Knowledge Base:` Computer Science, Machine Learning, Financial Analysis
+- `Domain Knowledge:` Computer Science, Machine Learning, Financial Analysis
 - `Program Languages:` Python, Java, Javascript, Prolog, Haskell
 - `Hobbies:` All kinds of sports (British Football, Gym, Skiing, Bicycle, 5KM Long Run), Video Games (I’m more of a cloud gamer who prefers watching video game broadcasts while multitasking rather than playing games myself.)
 
