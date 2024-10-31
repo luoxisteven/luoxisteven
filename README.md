@@ -12,6 +12,7 @@
 ### About me
 - `Domain Knowledge:` Computer Science, Machine Learning, Financial Analysis
 - `Program Languages:` Python, Java, Javascript, Prolog, Haskell
+- `Development Framework:` Vue, Springboot, Django
 - `Hobbies:` All kinds of sports (British Football, Gym, Skiing, Bicycle, 5KM Long Run), Video Games (I’m more of a cloud gamer who prefers watching video game broadcasts while multitasking rather than playing games myself.)
 
 ----
