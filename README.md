@@ -10,7 +10,7 @@
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
 
 ### About me
-- `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Maths 🔢, Statistics 📊, Finance 💰, Economics 📉
+- `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Math 🔢, Statistics 📊, Finance 💰, Economics 📉
 - `Program Languages:` Python 🐍, Java 🌋, JavaScript 🕸️, SQL 💽, R 📉, Prolog 😈, Haskell 👻
 - `Web Technologies:` Vue, Springboot, Django
 - `Data Analysis Packages:` NumPy, Pandas, Matplotlib
