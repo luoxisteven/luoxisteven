@@ -1,4 +1,4 @@
-## Xi Luo (Steven) 
+## Xi Luo (Steven)
 - I am a graduate student specializing in Artificial Intelligence, and I am eager to proceed with my career as a Machine Learning Engineer, Software Engineer, Data Analyst, Consultant, and Finance Analyst.
 - I have a diverse background, and you may find the answer to why in the section [Personal Philosophy](#personal-philosophy).
 - **`If any employer views this profile and shows interest, please don't hesitate to contact me.`**
@@ -10,10 +10,13 @@
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
 
 ### About me
-- `Domain Knowledge:` Computer Science, Machine Learning, Financial Analysis
-- `Program Languages:` Python, Java, Javascript, Prolog, Haskell
-- `Development Framework:` Vue, Springboot, Django
-- `Hobbies:` All kinds of sports (British Football, Gym, Skiing, Bicycle, 5KM Long Run), Video Games (I’m more of a cloud gamer who prefers watching video game broadcasts while multitasking rather than playing games myself.)
+- `Domain Knowledge:` Computer Science, Machine Learning, Maths, Statistics, Finance, Economics
+- `Program Languages:` Python, Java, JavaScript, SQL, R, Prolog, Haskell
+- `Web Technologies:` Vue, Springboot, Django
+- `Data Analysis Packages:` NumPy, Pandas, Matplotlib
+- `Data Scraping Packages:` Request, Urllib, Selenium, Scrapy
+- `Machine Learning Framework:` Pytorch, TensorFlow, Keras, Langchain
+- `Hobbies:` All kinds of sports (British Football ⚽️, Gym 🏋️, Skiing 🎿, Bicycle 🚴, 5KM Long Run 🏃), Video Games 🎮 (I’m more of a cloud gamer who prefers watching video game broadcasts while multitasking rather than playing games myself.)
 
 ----
 ### Personal Philosophy
