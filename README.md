@@ -15,7 +15,7 @@
 - `Web Technologies:` Vue, Springboot, Django
 - `Data Analysis Packages:` NumPy, Pandas, Matplotlib
 - `Data Scraping Packages:` Request, Urllib, Selenium, Scrapy
-- `Machine Learning Framework:` Pytorch, TensorFlow, Keras, Langchain
+- `Machine Learning Framework:` PyTorch, TensorFlow, Keras, LangChain
 - `Hobbies:` All kinds of sports (British Football ⚽️, Gym 🏋️, Skiing 🎿, Bicycle 🚴, 5KM Long Run 🏃), Video Games 🎮 (I’m more of a cloud gamer who prefers watching video game broadcasts while multitasking rather than playing games myself.)
 
 ----
