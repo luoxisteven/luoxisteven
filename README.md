@@ -12,7 +12,7 @@
 ### About me
 - `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Math 🔢, Statistics 📊, Finance 💰, Economics 📉
 - `Program Languages:` Python 🐍, Java 🌋, JavaScript 🕸️, SQL 💽, R 📉, Prolog 😈, Haskell 👻
-- `Web Technologies:` Vue.js, Spring Boot, Django, Node.js
+- `Web Technologies:` React, Vue.js, Spring Boot, Django, Node.js
 - `Data Analysis Packages:` NumPy, Pandas, Matplotlib
 - `Data Scraping Packages:` Request, Urllib, Selenium, Scrapy
 - `Machine Learning Framework:` PyTorch, TensorFlow, Keras, LangChain
