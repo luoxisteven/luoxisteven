@@ -9,6 +9,9 @@
 - `Another Github Account:` [@steveluo32](https://github.com/steveluo32)  
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
 
+### Leanrng Notes
+- [Learning Notes](https://github.com/luoxisteven/Learning-Notes)
+
 ### About me
 - `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Math 🔢, Statistics 📊, Finance 💰, Economics 📉
 - `Program Languages:` Python 🐍, Java 🌋, JavaScript 🕸️, SQL 💽, R 📉, Prolog 😈, Haskell 👻
