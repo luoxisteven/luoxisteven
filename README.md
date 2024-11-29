@@ -12,8 +12,8 @@
 ### Leanrng Notes
 - [Learning Notes](https://github.com/luoxisteven/Learning-Notes)
 
-### Personal Websites
-- xiluo.net
+### Personal Website
+- https://xiluo.net
 
 ### About me
 - `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Math 🔢, Statistics 📊, Finance 💰, Economics 📉
