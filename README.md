@@ -12,6 +12,9 @@
 ### Leanrng Notes
 - [Learning Notes](https://github.com/luoxisteven/Learning-Notes)
 
+### Personal Websites
+- xiluo.net
+
 ### About me
 - `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Math 🔢, Statistics 📊, Finance 💰, Economics 📉
 - `Program Languages:` Python 🐍, Java 🌋, JavaScript 🕸️, SQL 💽, R 📉, Prolog 😈, Haskell 👻
