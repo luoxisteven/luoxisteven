@@ -5,15 +5,10 @@
 
 ---
 ### Contact me
-- `Email:` luoxi9932@gmail.com
+- `Personal Webiste:` https://xiluo.net
+- `Email:` steven@xiluo.net
 - `Another Github Account:` [@steveluo32](https://github.com/steveluo32)  
 - `Linkedin:` https://www.linkedin.com/in/xi-luo-6259a1208/
-
-### Leanrng Notes
-- [Learning Notes](https://github.com/luoxisteven/Learning-Notes)
-
-### Personal Website
-- https://xiluo.net
 
 ### About me
 - `Domain Knowledge:` Computer Science 🖥️, Machine Learning 🤖, Math 🔢, Statistics 📊, Finance 💰, Economics 📉
