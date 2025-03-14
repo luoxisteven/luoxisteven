@@ -1,5 +1,5 @@
 ## Xi Luo (Steven)
-- I am a graduate student specializing in Artificial Intelligence, and I am eager to proceed with my career as a Machine Learning Engineer, Software Engineer, or Consultant.
+- I am a graduate student specializing in Compute Science and Artificial Intelligence, and I am eager to proceed with my career as a Software Engineer, Machine Learning Engineer, or Consultant.
 - I have a diverse background, and you may find the answer to why in the section [Personal Philosophy](#personal-philosophy).
 - **`If any employer views this profile and shows interest, please don't hesitate to contact me.`**
 
