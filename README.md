@@ -6,6 +6,7 @@
 ---
 ### Contact me
 - `Personal Webiste:` https://xiluo.net
+- `Static Website:` luoxisteven.github.io
 - `Email:` steven@xiluo.net
 - `Another Github Account:` [@steveluo32](https://github.com/steveluo32)  
 
